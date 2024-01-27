@@ -13,13 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-    .icon {
-        width: 2.5rem;
-        min-width: 32px;
-    }
-</style>
-
 # Prince Arigbabubuwo Adetoyeshe
 ### *Seasoned Software Engineer*
 
@@ -45,7 +38,8 @@ I am eager to bring my proven leadership experience and technical expertise to a
 [LINKEDIN](https://www.linkedin.com/in/toyebrainz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 <Picture>
-    <source media="(prefers-color-scheme: dark)" srcset="icons/github-light" class="icon" alt="Git" title="Princegbabuwo Github">
-    <img class="icon" src="icons/github-dark.svg" alt="Git" title="Princegbabuwo Github"/>
+    <source media="(prefers-color-scheme: dark)" srcset="icons/github-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="icons/github-dark.svg">
+    <img src="icons/github-dark.svg" alt="Git" title="Princegbabuwo Github"/>
 </Picture>
 
