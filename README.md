@@ -33,9 +33,9 @@ I am eager to bring my proven leadership experience and technical expertise to a
 
 
 
-[![Github](icons/github-dark.svg "Princegbabuwo Github")](https://github.com/princegbabuwo)
-[Stackoverflow](https://stackoverflow.com/users/10446949/toye-brainz?tab=profile) 
-[LINKEDIN](https://www.linkedin.com/in/toyebrainz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![Github](icons/github.svg "Princegbabuwo Github")](https://github.com/princegbabuwo)
+[![Stackoverflow](icons/stackoverflow.svg "Princegbabuwo Stackoverflow")](https://stackoverflow.com/users/10446949/toye-brainz?tab=profile)
+[![Linkedin](icons/linkedin.svg "Princegbabuwo Linkedin")](https://www.linkedin.com/in/toyebrainz)
 
 <!--
 <Picture>
