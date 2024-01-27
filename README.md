@@ -40,6 +40,6 @@ I am eager to bring my proven leadership experience and technical expertise to a
 <Picture>
     <source media="(prefers-color-scheme: dark)" srcset="icons/github-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="icons/github-dark.svg">
-    <img src="icons/github-dark.svg" alt="Git" title="Princegbabuwo Github"/>
+    <img src="icons/github-dark.svg" alt="Git" title="Princegbabuwo Github" style="width: 2.5rem"/>
 </Picture>
 
