@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 # Prince Arigbabubuwo Adetoyeshe
-### Seasoned Software Engineer
+### *Seasoned Software Engineer*
 
-An executive with a robust background in leadership, notably as the Chief Executive Officer at Kamio Homes for the past three years. 
+An executive with a robust background in leadership, notably as the *Chief Executive Officer at Kamio Homes* for the past three years. 
 
-Armed with a comprehensive skill set spanning various programming languages, technology stacks tools, I am now seeking a challenging role in software development and engineering. 
+Armed with a comprehensive skill set spanning various programming languages, technology stacks tools, I am now seeking a challenging role in *software development and engineering*. 
 
 I am eager to bring my proven leadership experience and technical expertise to a forward-looking company, I am committed to contributing fully to drive innovation and success in the ever-evolving tech industry.
 
@@ -33,10 +33,8 @@ I am eager to bring my proven leadership experience and technical expertise to a
 
 
 
-Github: https://github.com/princegbabuwo
-
-Stackoverflow: https://stackoverflow.com/users/10446949/toye-brainz?tab=profile
-
-LINKEDIN: https://www.linkedin.com/in/toyebrainz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+![Github](icons/github.svg)
+[Stackoverflow](https://stackoverflow.com/users/10446949/toye-brainz?tab=profile) 
+[LINKEDIN](https://www.linkedin.com/in/toyebrainz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 
