@@ -30,6 +30,30 @@ I am eager to bring my proven leadership experience and technical expertise to a
 ![MacOS](icons/osx.svg "MacOS")
 &nbsp;&nbsp;&nbsp;&nbsp;
 ![Linus](icons/Linux_Logo_in_Linux_Libertine_Font.svg "Linus")
+<br>
+
+## Computer Languages:
+![HTML](icons/HTML5_logo_and_wordmark.svg "HTML")
+&nbsp;&nbsp;&nbsp;&nbsp;
+![CSS](icons/CSS3_logo_and_wordmark.svg "CSS")
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Javascript](icons/Unofficial_JavaScript_logo_2.svg "Javascript")
+&nbsp;&nbsp;&nbsp;&nbsp;
+![C](icons/C_Programming_Language.svg "C")
+&nbsp;&nbsp;&nbsp;&nbsp;
+![C++](icons/ISO_C++_Logo.svg "C++")
+&nbsp;&nbsp;&nbsp;&nbsp;
+![C#](icons/Logo_C_sharp.svg "C#")
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Java](icons/java.svg "Java")
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Php](icons/new-php-logo.svg "Php")
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Python](icons/python-logo-generic.svg "Python")
+
+
+
+
 - Progresql, mysql, sqlite, mongodb
 - Php, Laravel, codelignitor
 - Python, Django
