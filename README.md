@@ -55,7 +55,7 @@ I am eager to bring my proven leadership experience and technical expertise to a
 <br>
 
 ## Database Engines:
-![PostgreSQL](icons/PostgreSQL_logo.3colors.svg "Postgresql")
+![PostgreSQL](icons/postgresql-horizontal.svg "Postgresql")
 &nbsp;&nbsp;&nbsp;&nbsp;
 ![MySQL](icons/mysql-official.svg "MySQL")
 &nbsp;&nbsp;&nbsp;&nbsp;
