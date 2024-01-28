@@ -52,6 +52,16 @@ I am eager to bring my proven leadership experience and technical expertise to a
 ![Python](icons/python-vertical.svg "Python")
 &nbsp;&nbsp;&nbsp;&nbsp;
 ![Visual Basic](icons/VB.NET_Logo.svg "Visual Basic")
+<br>
+
+## Database Engines:
+![PostgreSQL](icons/PostgreSQL_logo.3colors.svg "Postgresql")
+&nbsp;&nbsp;&nbsp;&nbsp;
+![MySQL](icons/mysql-official.svg "MySQL")
+&nbsp;&nbsp;&nbsp;&nbsp;
+![SQLite](icons/SQLite370.svg "SQLite")
+&nbsp;&nbsp;&nbsp;&nbsp;
+![MongoDB](icons/MongoDB_Logo.svg "MongoDB")
 
 
 
