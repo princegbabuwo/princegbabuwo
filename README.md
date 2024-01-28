@@ -45,7 +45,6 @@ I am eager to bring my proven leadership experience and technical expertise to a
 &nbsp;&nbsp;&nbsp;&nbsp;
 ![C#](icons/Logo_C_sharp.svg "C#")
 &nbsp;&nbsp;&nbsp;&nbsp;
-
 ![Java](icons/java.svg "Java")
 &nbsp;&nbsp;&nbsp;&nbsp;
 ![Php](icons/new-php-logo.svg "Php")
