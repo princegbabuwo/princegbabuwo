@@ -49,7 +49,7 @@ I am eager to bring my proven leadership experience and technical expertise to a
 &nbsp;&nbsp;&nbsp;&nbsp;
 ![Php](icons/new-php-logo.svg "Php")
 &nbsp;&nbsp;&nbsp;&nbsp;
-![Python](icons/python-logo-generic.svg "Python")
+![Python](icons/python-vertical.svg "Python")
 
 
 
