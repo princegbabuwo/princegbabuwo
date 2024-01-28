@@ -56,7 +56,7 @@ I am eager to bring my proven leadership experience and technical expertise to a
 
 ## Database Engines:
 ![PostgreSQL](icons/postgresql-horizontal.svg "Postgresql")
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 ![MySQL](icons/mysql-official.svg "MySQL")
 &nbsp;&nbsp;&nbsp;&nbsp;
 ![SQLite](icons/SQLite370.svg "SQLite")
@@ -64,9 +64,31 @@ I am eager to bring my proven leadership experience and technical expertise to a
 ![MongoDB](icons/MongoDB_Logo.svg "MongoDB")
 
 
+## Frameworks:
+![Django](icons/django-logo-negative.svg "Django")
+&nbsp;&nbsp;
+![Express](icons/express.js_Logo.svg "Express")
+&nbsp;&nbsp;
+![Laraavel](icons/Laravel.svg "Laravel")
+&nbsp;&nbsp;&nbsp;&nbsp;
+![CodeIgniter](icons/CodeIgniter_Logo.svg "CodeIgniter")
+&nbsp;&nbsp;&nbsp;&nbsp;
+![React](icons/React-icon.svg "React")
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Angular](icons/angular.svg "Angular")
+&nbsp;&nbsp;
+![.Net](icons/Microsoft_.NET_logo.svg ".Net")
+&nbsp;&nbsp;
+![Next.js](icons/Nextjs-logo.svg "Next.js")
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Svelte](icons/Svelte_Logo.svg "Svelte")
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Vue.js](icons/Vue.js_Logo_2.svg "Vue.js")
+<br><br>
 
 
-- Progresql, mysql, sqlite, mongodb
+
+
 - Php, Laravel, codelignitor
 - Python, Django
 - Javascript, Nodejs, Reatjs, Nextjs, svelte, expressjs
