@@ -21,8 +21,15 @@ An executive with a robust background in leadership, notably as the *Chief Execu
 Armed with a comprehensive skill set spanning various programming languages, technology stacks tools, I am now seeking a challenging role in *software development and engineering*. 
 
 I am eager to bring my proven leadership experience and technical expertise to a forward-looking company, I am committed to contributing fully to drive innovation and success in the ever-evolving tech industry.
+<br><br><br>
 
-## Technology Stacks
+# Technology Stacks & Tools
+## Operating Systems:
+![Windows](icons/Microsoft_logo.svg "Windows")
+&nbsp;&nbsp;&nbsp;&nbsp;
+![MacOS](icons/osx.svg "MacOS")
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Linus](icons/Linux_Logo_in_Linux_Libertine_Font.svg "Linus")
 - Progresql, mysql, sqlite, mongodb
 - Php, Laravel, codelignitor
 - Python, Django
@@ -34,7 +41,9 @@ I am eager to bring my proven leadership experience and technical expertise to a
 
 
 [![Github](icons/github.svg "Princegbabuwo Github")](https://github.com/princegbabuwo)
+&nbsp;&nbsp;&nbsp;&nbsp;
 [![Stackoverflow](icons/stackoverflow.svg "Princegbabuwo Stackoverflow")](https://stackoverflow.com/users/10446949/toye-brainz?tab=profile)
+&nbsp;&nbsp;&nbsp;&nbsp;
 [![Linkedin](icons/linkedin.svg "Princegbabuwo Linkedin")](https://www.linkedin.com/in/toyebrainz)
 
 <!--
