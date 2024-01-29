@@ -11,8 +11,11 @@ An executive with a robust background in leadership, notably as the *Chief Execu
 
 Armed with a comprehensive skill set spanning various programming languages, technology stacks tools, I am now seeking a challenging role in *software development and engineering*. 
 
-I am eager to bring my proven leadership experience and technical expertise to a forward-looking company, I am committed to contributing fully to drive innovation and success in the ever-evolving tech industry. 
+I am eager to bring my proven leadership experience and technical expertise to a forward-looking company, I am committed to contributing fully to drive innovation and success in the ever-evolving tech industry.
+
+## Certifications
 <br><br><br>
+
 
 # Technology Stacks & Tools
 ## Operating Systems:
@@ -77,13 +80,15 @@ I am eager to bring my proven leadership experience and technical expertise to a
 ![Vue.js](icons/Vue.js_Logo_2.svg "Vue.js")
 <br><br>
 
-
-
-
-- Php, Laravel, codelignitor
-- Python, Django
-- Javascript, Nodejs, Reatjs, Nextjs, svelte, expressjs
-- HTML5/CSS3
-- Java, C#, C++, VB.Net
-- Git, AWS
+## Other Tools:
+![AWS](icons/Amazon_Web_Services_Logo.svg "Amazon Web Services")
+&nbsp;&nbsp;
+![Google Cloud](icons/Google_Cloud_logo.svg "Google Cloud")
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Azure](icons/Microsoft_Azure_Logo.svg "Microsoft Azure")
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Git](icons/Git-Icon-1788C.svg "Git")
+&nbsp;&nbsp;
+![GitHub](icons/github-mark.svg "GitHub")
+&nbsp;&nbsp;&nbsp;&nbsp;
 
