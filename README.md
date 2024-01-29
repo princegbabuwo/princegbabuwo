@@ -14,7 +14,7 @@ Armed with a comprehensive skill set spanning various programming languages, tec
 I am eager to bring my proven leadership experience and technical expertise to a forward-looking company, I am committed to contributing fully to drive innovation and success in the ever-evolving tech industry.
 
 ## Certifications
-[![Neural Network & Deep Learning Certificate](images/1706489869454-7bf67004-cb65-4c59-9bcd-0c3e42efc969_1.jpg "DeepLearning.AI Neural Network Course Certificate")](https://coursera.org/share/9198bf9e5641668612752b5cd17be8a2)
+![Neural Network & Deep Learning Certificate](images/deepcert.jpg "DeepLearning.AI Neural Network Course Certificate")
 <br><br><br>
 
 
