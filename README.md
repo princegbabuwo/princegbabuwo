@@ -14,7 +14,7 @@ Armed with a comprehensive skill set spanning various programming languages, tec
 I am eager to bring my proven leadership experience and technical expertise to a forward-looking company, I am committed to contributing fully to drive innovation and success in the ever-evolving tech industry.
 
 ## Certifications
-[![Neural Network & Deep Learning Certificate](images/deepcert.png "DeepLearning.AI Neural Network Course Certificate")](https://www.coursera.org/account/accomplishments/verify/CWXK45GT9C9J)
+[![Neural Network & Deep Learning Certificate](https://raw.githubusercontent.com/princegbabuwo/princegbabuwo/master/Images/deepcert.jpg "DeepLearning.AI Neural Network Course Certificate")](https://www.coursera.org/account/accomplishments/verify/CWXK45GT9C9J)
 <br><br><br>
 
 
@@ -24,7 +24,7 @@ I am eager to bring my proven leadership experience and technical expertise to a
 &nbsp;&nbsp;&nbsp;&nbsp;
 ![MacOS](icons/osx.svg "MacOS")
 &nbsp;&nbsp;&nbsp;&nbsp;
-![Linus](icons/Linux_Logo_in_Linux_Libertine_Font.svg "Linus")
+![Linus](icons/Linux_Logo_in_Linux_Libertine_Font.svg "Linux")
 <br>
 
 ## Computer Languages:
