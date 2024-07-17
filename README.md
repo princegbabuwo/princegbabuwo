@@ -1,21 +1,65 @@
-# Prince Arigbabubuwo Adetoyeshe
-### *Seasoned Software Engineer* 
+# Adetoyeshe Arigbabuwo
+### *Machine Learning Engineer* 
 [![Github](icons/github.svg "Princegbabuwo Github")](https://github.com/princegbabuwo)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![Linkedin](icons/linkedin.svg "Princegbabuwo Linkedin")](https://www.linkedin.com/in/toyebrainz)
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png' height='24'>
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![Stackoverflow](icons/stackoverflow.svg "Princegbabuwo Stackoverflow")](https://stackoverflow.com/users/10446949/toye-brainz?tab=profile)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![Linkedin](icons/linkedin.svg "Princegbabuwo Linkedin")](https://www.linkedin.com/in/toyebrainz)
+
+<!--[![Kaggle](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png "Princegbabuwo Linkedin")](https://www.kaggle.com/adetoyeshearigbabuwo)-->
+
 <br>
 
-An executive with a robust background in leadership, notably as the *Chief Executive Officer at Kamio Homes* for the past three years. 
+I'm Adetoye, an AI and machine learning enthusiast with a degree in Applied and Computational Mathematics from the University of Lagos. Over the past six years, I've gained significant experience in management, serving as General Manager at Evergreen Estates for three years and as the CEO of my startup, Kamio Homes, for three years.
 
-Armed with a comprehensive skill set spanning various programming languages, technology stacks tools, I am now seeking a challenging role in *software development and engineering*. 
+The evolving economic climate has posed new challenges in the real estate sector, prompting me to leverage my problem-solving skills and pivot towards my passion for technology. I have completed several courses and projects in machine learning, which have fueled my enthusiasm for this field. I am now eager to transition into a career as a Machine Learning Engineer, where I can apply my technical expertise and entrepreneurial spirit to drive innovation and add value to a forward-thinking organization.
 
-I am eager to bring my proven leadership experience and technical expertise to a forward-looking company, I am committed to contributing fully to drive innovation and success in the ever-evolving tech industry.
+<!--
+## Completed Courses
+* [Introduction to Machine Learning - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/intro-to-machine-learning)
 
-## Certifications
-[![Neural Network & Deep Learning Certificate](https://raw.githubusercontent.com/princegbabuwo/princegbabuwo/master/Images/deepcert.jpg "DeepLearning.AI Neural Network Course Certificate")](https://www.coursera.org/account/accomplishments/verify/CWXK45GT9C9J)
-<br><br><br>
+* [Introduction to Machine Learning - AWS](https://drive.google.com/file/d/1mmU3nTjaUeYOo2odR4GfeB1OGh8EPhbe/view?usp=drive_link)
+
+* [Data Cleaning - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/data-cleaning)
+
+* [Data Visualization - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/data-visualization)
+
+* [Feature Engineering - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/feature-engineering)
+
+* [Artificial Intelligence and Machine Learning Fundamentals](https://www.udemy.com/certificate/UC-41d45651-33b3-4569-8cc3-c38b0f5bfc89/)
+
+* [Introduction to Deep Learning - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/intro-to-deep-learning)
+
+* [Neural Networks and Deep Learning - DeepLearning.AI](https://www.coursera.org/account/accomplishments/records/CWXK45GT9C9J)
+
+* [Computer Vision - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/computer-vision)
+
+* [Foundations of Prompt Engineering - AWS](https://drive.google.com/file/d/1tbD056rcv_A87qx6-QxAnX9-WBicZSCZ/view?usp=drive_link)
+
+* [AWS Amazon Bedrock](https://drive.google.com/file/d/10etOp-Gkg061r1fIH-zFp2yKw5mQ7wXY/view?usp=drive_link)
+
+* [Introduction to Amazon SageMaker](https://drive.google.com/file/d/19fKGG3vuc3QzLqD5jZTH9-XbjNBMJQsv/view?usp=drive_link)
+
+* [Building Language Models on AWS](https://drive.google.com/file/d/18AvJ4IsSW0viSZPOksXZYoDK7JPQTjXA/view?usp=drive_link)
+
+* [Time Series](https://www.kaggle.com/learn/time-series)
+
+* [Introduction to Game AI and Reinforcement Learning - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/intro-to-game-ai-and-reinforcement-learning)
+
+* [Geospatial Analysis - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/geospatial-analysis)
+
+* [Advanced SQL - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/advanced-sql)
+
+* [Introduction to AI Ethics - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/intro-to-ai-ethics)
+
+* [Machine Learning Explainability - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/machine-learning-explainability)
+
+* [Nature of intelligence - Udemy](https://www.udemy.com/certificate/UC-1f5b8821-780d-4a5e-9d20-501c66538af3/)
+
+
 
 
 # Technology Stacks & Tools
@@ -92,4 +136,5 @@ I am eager to bring my proven leadership experience and technical expertise to a
 &nbsp;&nbsp;
 ![GitHub](icons/github-mark.svg "GitHub")
 &nbsp;&nbsp;&nbsp;&nbsp;
+-->
 
