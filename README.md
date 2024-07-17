@@ -76,7 +76,6 @@ The evolving economic climate has posed new challenges in the real estate sector
 <img src='https://www.r-project.org/logo/Rlogo.svg' height='32'>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://www.rust-lang.org/logos/rust-logo-32x32.png'>
-
 <br>
 
 ## Libraries & Frameworks
@@ -85,6 +84,8 @@ The evolving economic climate has posed new challenges in the real estate sector
 <img src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg' height='32'></img>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg' height='32'>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg' height='32'>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg' height='32'>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -100,6 +101,11 @@ The evolving economic climate has posed new challenges in the real estate sector
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg' height='32'>
 &nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://thedatascientist.com/wp-content/uploads/2023/08/nltk.png' height='32'>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='icons/Apache MXNet on AWS.png' height='32'>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://upload.wikimedia.org/wikipedia/en/b/b9/Microsoft-CogTK.png' height='32'>
 <br>
 
 ## Database Engines:
@@ -114,20 +120,48 @@ The evolving economic climate has posed new challenges in the real estate sector
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg' height='32'>
 &nbsp;&nbsp;&nbsp;&nbsp;
+<br>
 
-## Cloud Platforms:
+## Cloud & Deployment Platforms:
 ![AWS](icons/Amazon_Web_Services_Logo.svg "Amazon Web Services")
 &nbsp;&nbsp;
 ![Google Cloud](icons/Google_Cloud_logo.svg "Google Cloud")
 &nbsp;&nbsp;&nbsp;&nbsp;
 ![Azure](icons/Microsoft_Azure_Logo.svg "Microsoft Azure")
 &nbsp;&nbsp;&nbsp;&nbsp;
+<img src='icons/docker-logo-blue.png' height='32'>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/name_blue.png' height='32'>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='icons/kubeflow.svg' height='32'>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<br><br>
+
+## ML Experiment Tracking
+<img src='https://mlflow.org/img/mlflow-black.svg' height='32'></img>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://site.wandb.ai/nitropack_static/pfApWRihljemXzAqfjcIBKUphCWQwXRI/assets/images/optimized/rev-3bb3226/site.wandb.ai/wp-content/uploads/2024/05/Horizontal-WB-logo.svg' height='32'>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://neptune.ai/wp-content/themes/neptune/img/logo-neptune.svg' height='32'>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+## Other ML Tools
+<img src='icons/datarobot.svg' height='32'></img>
+&nbsp;&nbsp;&nbsp;&nbsp; 
 ![Git](icons/Git-Icon-1788C.svg "Git")
 &nbsp;&nbsp;
 ![GitHub](icons/github-mark.svg "GitHub")
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://cloud.githubusercontent.com/assets/72164/2638484/3f743636-beaf-11e3-8f26-0d3b41f12edf.png' height='32'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg' height='32'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://cloud.githubusercontent.com/assets/72164/2638484/3f743636-beaf-11e3-8f26-0d3b41f12edf.png' height='32'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/5/53/Apache_kafka_wordtype.svg' height='32'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-
+<img src='https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg' height='32'>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://upload.wikimedia.org/wikipedia/commons/archive/3/38/20190118024745%21Jupyter_logo.svg' height='32'>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg' height='32'>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='icons/label_studio.svg' height='32'>
+&nbsp;&nbsp;&nbsp;&nbsp;
