@@ -80,9 +80,9 @@ The evolving economic climate has posed new challenges in the real estate sector
 <br>
 
 ## Libraries & Frameworks
-<img src='https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg' height='32'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg' height='32'></img>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg' height='32'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg' height='32'></img>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg' height='32'>
 &nbsp;&nbsp;&nbsp;&nbsp;
