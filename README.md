@@ -26,7 +26,7 @@ The evolving economic climate has posed new challenges in the real estate sector
 
 * [Feature Engineering - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/feature-engineering)
 
-* [Artificial Intelligence and Machine Learning Fundamentals](https://www.udemy.com/certificate/UC-41d45651-33b3-4569-8cc3-c38b0f5bfc89/)
+* [Artificial Intelligence and Machine Learning Fundamentals - Udemy](https://www.udemy.com/certificate/UC-41d45651-33b3-4569-8cc3-c38b0f5bfc89/)
 
 * [Introduction to Deep Learning - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/intro-to-deep-learning)
 
@@ -42,7 +42,7 @@ The evolving economic climate has posed new challenges in the real estate sector
 
 * [Building Language Models on AWS](https://drive.google.com/file/d/18AvJ4IsSW0viSZPOksXZYoDK7JPQTjXA/view?usp=drive_link)
 
-* [Time Series](https://www.kaggle.com/learn/time-series)
+* [Time Series - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/time-series)
 
 * [Introduction to Game AI and Reinforcement Learning - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/intro-to-game-ai-and-reinforcement-learning)
 
