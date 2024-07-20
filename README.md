@@ -139,31 +139,33 @@ The evolving economic climate has posed new challenges in the real estate sector
 <br>
 
 ## ML Experiment Tracking
-<img src='https://mlflow.org/img/mlflow-black.svg' height='32'></img>
+<img src='https://mlflow.org/img/mlflow-black.svg' height='32' alt='mlflow'></img>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://site.wandb.ai/nitropack_static/pfApWRihljemXzAqfjcIBKUphCWQwXRI/assets/images/optimized/rev-3bb3226/site.wandb.ai/wp-content/uploads/2024/05/Horizontal-WB-logo.svg' height='32'>
+<img src='https://site.wandb.ai/nitropack_static/pfApWRihljemXzAqfjcIBKUphCWQwXRI/assets/images/optimized/rev-3bb3226/site.wandb.ai/wp-content/uploads/2024/05/Horizontal-WB-logo.svg' height='32' alt='weight&biases'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://neptune.ai/wp-content/themes/neptune/img/logo-neptune.svg' height='32'>
+<img src='https://neptune.ai/wp-content/themes/neptune/img/logo-neptune.svg' height='32' alt='neptune.ai'>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Other ML Tools
-<img src='icons/datarobot.svg' height='32'></img>
-&nbsp;&nbsp;&nbsp;&nbsp; 
-![Git](icons/Git-Icon-1788C.svg "Git")
-&nbsp;&nbsp;
-![GitHub](icons/github-mark.svg "GitHub")
+<img src='https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg' height='32' alt='git'></img>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg' height='32'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg' height='32' alt='google colab'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/5/53/Apache_kafka_wordtype.svg' height='32'>
+<img src='icons/SageMaker.png' height='32' alt='amazon sagemaker'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg' height='32'>
+<img src='https://metriclabs.com.au/wp-content/uploads/2024/06/314-3143797_google-big-query-logo-google-bigquery-logo-clipart.jpg' height='32' alt='big query'></img>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/archive/3/38/20190118024745%21Jupyter_logo.svg' height='32'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg' height='32' alt='gitlab'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg' height='32'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/5/53/Apache_kafka_wordtype.svg' height='32' alt='apache kafka'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='icons/label_studio.svg' height='32'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg' height='32' alt='apache spark'>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://upload.wikimedia.org/wikipedia/commons/archive/3/38/20190118024745%21Jupyter_logo.svg' height='32' alt='juoyter'>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='icons/label_studio.svg' height='32' alt='label studio'>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='icons/datarobot.svg' height='32' alt='data robot'></img>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <!--
@@ -227,4 +229,6 @@ The evolving economic climate has posed new challenges in the real estate sector
 - JupyterLab and Jupyter Notebook
 - Google Collab
 - Label Studio
+- Amazon SageMaker
+- Google BugQuery
 -->
