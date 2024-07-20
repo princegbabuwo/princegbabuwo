@@ -1,13 +1,12 @@
 # Adetoyeshe Arigbabuwo
 ### *Machine Learning Engineer* 
-[![Github](icons/github.svg "Princegbabuwo Github")](https://github.com/princegbabuwo)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg' alt='Github' height='24'></img>](https://github.com/princegbabuwo)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![Linkedin](icons/linkedin.svg "Princegbabuwo Linkedin")](https://www.linkedin.com/in/toyebrainz)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/7/7e/LinkedIn_PNG16.png' height='24' alt='LinkedIn'>](https://www.linkedin.com/in/princegbabuwo/)
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png' height='24'>
+[<img src='https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png' alt='Kaggle' height='24'>](https://www.kaggle.com/adetoyeshearigbabuwo)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![Stackoverflow](icons/stackoverflow.svg "Princegbabuwo Stackoverflow")](https://stackoverflow.com/users/10446949/toye-brainz?tab=profile)
-&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg' alt='StackOverflow' height='24'>](https://stackoverflow.com/users/10446949/adetoye?tab=profile)
 
 <br>
 
@@ -61,21 +60,22 @@ The evolving economic climate has posed new challenges in the real estate sector
 
 # Technology Stacks & Tools
 ## Operating Systems:
-![Windows](icons/Microsoft_logo.svg "Windows")
+<img src='https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg' height='32' alt='windows'></img>
 &nbsp;&nbsp;&nbsp;&nbsp;
-![Linux](icons/Linux_Logo_in_Linux_Libertine_Font.svg "Linux")
+<img src='https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg' height='32' alt='linux'></img>
 &nbsp;&nbsp;&nbsp;&nbsp;
-![MacOS](icons/osx.svg "MacOS")
+<img src='https://upload.wikimedia.org/wikipedia/commons/7/74/Apple_logo_dark_grey.svg' height='32' alt='mac-os'></img>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <br>
 
 ## Computer Languages:
-![Python](icons/python-vertical.svg "Python")
+<img src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' height='32' alt='python'></img>
 &nbsp;&nbsp;&nbsp;&nbsp;
-![C++](icons/ISO_C++_Logo.svg "C++")
+<img src='https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg' height='32' alt='c++'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://www.r-project.org/logo/Rlogo.svg' height='32'>
+<img src='https://www.r-project.org/logo/Rlogo.svg' height='32' alt='r'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://www.rust-lang.org/logos/rust-logo-32x32.png'>
+<img src='https://www.rust-lang.org/logos/rust-logo-32x32.png' alt='rust'>
 <br>
 
 ## Libraries & Frameworks
@@ -135,8 +135,7 @@ The evolving economic climate has posed new challenges in the real estate sector
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src='icons/kubeflow.svg' height='32'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-
-<br><br>
+<br>
 
 ## ML Experiment Tracking
 <img src='https://mlflow.org/img/mlflow-black.svg' height='32'></img>
@@ -165,3 +164,66 @@ The evolving economic climate has posed new challenges in the real estate sector
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src='icons/label_studio.svg' height='32'>
 &nbsp;&nbsp;&nbsp;&nbsp;
+
+<!--
+
+# Technology Stacks & Tools
+## Operating Systems:
+- Windows
+- Linux
+- MacOS
+
+## Computer Languages:
+- Python
+- C++
+- R
+- Rust
+
+## Libraries & Frameworks
+- Tensor Flow
+- Keras
+- PyTorch
+- Numpy 
+- Scikit Learn
+- Pandas
+- Spacy
+- HuggingFace Transformers
+- OpenCV
+- Pillow
+- Apache Hadoo
+- NLTK
+- Apache MXNet
+- Microsoft COgnitive Toolkit
+
+## Database Engines:
+-PostgreSQL
+- MySQL
+- SQLite
+- MongoDB
+- Canssandra DB
+- Redis
+
+## Cloud & Deployment Platforms:
+- AWS
+- Google Cloud
+- Microsoft Azure
+- Docker
+- Kubernetes
+- KubeFlow
+
+## ML Experiment Tracking
+- ML Flow
+- Weights and Biases
+- Neptune.ai
+
+## Other ML Tools
+- Data Robot
+- Git
+- GitHub
+- GitLab
+- Apache Kafka
+- Apache Spark
+- JupyterLab and Jupyter Notebook
+- Google Collab
+- Label Studio
+-->
