@@ -10,9 +10,13 @@
 
 <br>
 
-I'm Adetoye, an AI and machine learning enthusiast with a degree in Applied and Computational Mathematics from the University of Lagos. Over the past six years, I've gained significant experience in management, serving as General Manager at Evergreen Estates for three years and as the CEO of my startup, Kamio Homes, for three years.
+I'm Adetoye, a professional with a solid foundation in Applied and Computational Mathematics from the University of Lagos, class of 2017. I started my career as the General Manager at Evergreen Estates, a family-owned real estate firm, in 2018.
 
-The evolving economic climate has posed new challenges in the real estate sector, prompting me to leverage my problem-solving skills and pivot towards my passion for technology. I have completed several courses and projects in machine learning, which have fueled my enthusiasm for this field. I am now eager to transition into a career as a Machine Learning Engineer, where I can apply my technical expertise and entrepreneurial spirit to drive innovation and add value to a forward-thinking organization.
+In 2019, I co-founded JTMForum, an online platform where subscribers earned by sharing content. As the lead developer and community manager, I helped JTMForum reach over 1,000 subscribers and 100,000 daily page views. Despite its eventual closure due to financial challenges, it was a valuable learning experience.
+
+In 2021, I co-founded Kamio Homes, where I have been the CEO for the past four years. Recently, I resigned from Evergreen Estates and plan to step down as CEO of Kamio Homes by the end of the year to fully transition into a new career.
+
+My passion for technology has grown into a strong interest in data science and machine learning. I've completed several courses and projects in this field, and I am now focused on becoming a Machine Learning Engineer. I look forward to applying my skills and experience to make a meaningful impact in the tech industry.
 
 ## Completed Courses
 * [Introduction to Machine Learning - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/intro-to-machine-learning)
