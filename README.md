@@ -64,7 +64,7 @@ The evolving economic climate has posed new challenges in the real estate sector
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg' height='32' alt='linux'></img>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/7/74/Apple_logo_dark_grey.svg' height='32' alt='mac-os'></img>
+<img src='https://upload.wikimedia.org/wikipedia/commons/7/74/Apple_logo_dark_grey.svg' height='32' alt='macOS'></img>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <br>
 
@@ -79,61 +79,62 @@ The evolving economic climate has posed new challenges in the real estate sector
 <br>
 
 ## Libraries & Frameworks
-<img src='https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg' height='32'></img>
+<img src='https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg' height='32' alt='tensor flow'></img>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg' height='32'></img>
+<img src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg' height='32' alt='keras'></img>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg' height='32'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg' height='32' alt='pyTorch'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg' height='32'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg' height='32' alt='numpy'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg' height='32'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg' height='32' alt='scikit_learn'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg' height='32'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg' height='32' alt='pandas'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg' height='32'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg' height='32' alt='spacy'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://cdn-lfs.huggingface.co/repos/96/a2/96a2c8468c1546e660ac2609e49404b8588fcf5a748761fa72c154b2836b4c83/42378b786aa85e6103abbd2ee24e56672467d562ecf884eb51cefe3a68971087?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo-with-title.png%3B+filename%3D%22hf-logo-with-title.png%22%3B&response-content-type=image%2Fpng&Expires=1721499626&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMTQ5OTYyNn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy85Ni9hMi85NmEyYzg0NjhjMTU0NmU2NjBhYzI2MDllNDk0MDRiODU4OGZjZjVhNzQ4NzYxZmE3MmMxNTRiMjgzNmI0YzgzLzQyMzc4Yjc4NmFhODVlNjEwM2FiYmQyZWUyNGU1NjY3MjQ2N2Q1NjJlY2Y4ODRlYjUxY2VmZTNhNjg5NzEwODc%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=QN9sBR6xgLsVqxSkzxpREbJLXZoBa-RXOL1AFpukS7l5YmjfiJuIb8O7cw7A1Ih7Fb61yv%7EyPaHxE%7EB8s54e82zKSXW32Kl2BzvrSxawqlzlGIpUTHJlAeKBllCBpAFulr5le4tRGxoxWu2Gf55QLUflI%7E1CXNKCeqKa6I2MMqM0UqnmEQc2tMiXGMNSdQfKsKbDG1sdcqQP2-oLjBuj2vzLD97jrOEytb8ZvS3P-jNkD1fcRCCS-iBhFIMZW65yH9Q6qYlvPLtNeiv1zsH%7EfkTLM%7EfVIy13B%7EEfek-6aMf1hUy0KVzBcwxhmRq0eM8DEN4wSH4GW2lxc4DcoeVv9w__&Key-Pair-Id=K3ESJI6DHPFC7' height='32'>
+<img src='https://cdn-lfs.huggingface.co/repos/96/a2/96a2c8468c1546e660ac2609e49404b8588fcf5a748761fa72c154b2836b4c83/42378b786aa85e6103abbd2ee24e56672467d562ecf884eb51cefe3a68971087?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo-with-title.png%3B+filename%3D%22hf-logo-with-title.png%22%3B&response-content-type=image%2Fpng&Expires=1721499626&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMTQ5OTYyNn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy85Ni9hMi85NmEyYzg0NjhjMTU0NmU2NjBhYzI2MDllNDk0MDRiODU4OGZjZjVhNzQ4NzYxZmE3MmMxNTRiMjgzNmI0YzgzLzQyMzc4Yjc4NmFhODVlNjEwM2FiYmQyZWUyNGU1NjY3MjQ2N2Q1NjJlY2Y4ODRlYjUxY2VmZTNhNjg5NzEwODc%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=QN9sBR6xgLsVqxSkzxpREbJLXZoBa-RXOL1AFpukS7l5YmjfiJuIb8O7cw7A1Ih7Fb61yv%7EyPaHxE%7EB8s54e82zKSXW32Kl2BzvrSxawqlzlGIpUTHJlAeKBllCBpAFulr5le4tRGxoxWu2Gf55QLUflI%7E1CXNKCeqKa6I2MMqM0UqnmEQc2tMiXGMNSdQfKsKbDG1sdcqQP2-oLjBuj2vzLD97jrOEytb8ZvS3P-jNkD1fcRCCS-iBhFIMZW65yH9Q6qYlvPLtNeiv1zsH%7EfkTLM%7EfVIy13B%7EEfek-6aMf1hUy0KVzBcwxhmRq0eM8DEN4wSH4GW2lxc4DcoeVv9w__&Key-Pair-Id=K3ESJI6DHPFC7' height='32' alt='huggingface'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg' height='32'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg' height='32' alt='openCV'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://cloud.githubusercontent.com/assets/72164/2638484/3f743636-beaf-11e3-8f26-0d3b41f12edf.png' height='32'>
+<img src='https://cloud.githubusercontent.com/assets/72164/2638484/3f743636-beaf-11e3-8f26-0d3b41f12edf.png' height='32' alt='PIL'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg' height='32'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg' height='32' alt='hadoop'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://thedatascientist.com/wp-content/uploads/2023/08/nltk.png' height='32'>
+<img src='https://thedatascientist.com/wp-content/uploads/2023/08/nltk.png' height='32' alt='NLTK'>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src='icons/Apache MXNet on AWS.png' height='32'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/en/b/b9/Microsoft-CogTK.png' height='32'>
+<img src='https://upload.wikimedia.org/wikipedia/en/b/b9/Microsoft-CogTK.png' height='32' alt='COGTK'>
 <br>
 
 ## Database Engines:
-<img src='https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg' height='32'></img>
+<img src='https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg' height='32' alt='postgresql'></img>
 &nbsp;&nbsp;&nbsp;&nbsp;
-![MySQL](icons/mysql-official.svg "MySQL")
+<img src='https://www.mysql.com/common/logos/logo-mysql-170x115.png' height='32' alt='mysql'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-![SQLite](icons/SQLite370.svg "SQLite")
+<img src='https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg' height='32' alt='sqlite'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-![MongoDB](icons/MongoDB_Logo.svg "MongoDB")
-<img src='https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg' height='32'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg' height='32' alt='mongoDB'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg' height='32'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg' height='32' alt='canssandra'>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg' height='32' alt='redis'>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <br>
 
 ## Cloud & Deployment Platforms:
-![AWS](icons/Amazon_Web_Services_Logo.svg "Amazon Web Services")
+<img src='https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg' height='32' alt='aws'><img>
 &nbsp;&nbsp;
-![Google Cloud](icons/Google_Cloud_logo.svg "Google Cloud")
+<img src='https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg' height='32' alt='google cloud'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-![Azure](icons/Microsoft_Azure_Logo.svg "Microsoft Azure")
+<img src='https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg' height='32' alt='microsoft azure'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='icons/docker-logo-blue.png' height='32'>
+<img src='icons/docker-logo-blue.png' height='32' alt='docker'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/name_blue.png' height='32'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/6/67/Kubernetes_logo.svg' height='32' alt='kubernetes'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='icons/kubeflow.svg' height='32'>
+<img src='icons/kubeflow.svg' height='32' alt='kubeflow'>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <br>
 
