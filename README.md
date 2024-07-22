@@ -119,6 +119,8 @@ My passion for technology has grown into a strong interest in data science and m
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg' height='32' alt='sqlite'>
 &nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://metriclabs.com.au/wp-content/uploads/2024/06/314-3143797_google-big-query-logo-google-bigquery-logo-clipart.jpg' height='32' alt='google big query'></img>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg' height='32' alt='mongoDB'>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg' height='32' alt='canssandra'>
@@ -156,8 +158,6 @@ My passion for technology has grown into a strong interest in data science and m
 <img src='https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg' height='32' alt='google colab'>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src='icons/SageMaker.png' height='32' alt='amazon sagemaker'>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://metriclabs.com.au/wp-content/uploads/2024/06/314-3143797_google-big-query-logo-google-bigquery-logo-clipart.jpg' height='32' alt='big query'></img>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg' height='32' alt='gitlab'>
 &nbsp;&nbsp;&nbsp;&nbsp;
