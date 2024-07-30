@@ -1,5 +1,5 @@
 # Adetoyeshe Arigbabuwo
-### *Machine Learning Engineer* 
+### *AI/Machine Learning Engineer* 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg' alt='Github' height='24'></img>](https://github.com/princegbabuwo)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://upload.wikimedia.org/wikipedia/commons/7/7e/LinkedIn_PNG16.png' height='24' alt='LinkedIn'>](https://www.linkedin.com/in/princegbabuwo/)
@@ -10,34 +10,34 @@
 
 <br>
 
-I'm Adetoye, a professional with a solid foundation in Applied and Computational Mathematics from the University of Lagos, class of 2017. I started my career as the General Manager at Evergreen Estates, a family-owned real estate firm, in 2018.
+I'm Adetoye, an AI and Machine Learning enthusiast with a solid foundation in Applied and Computational Mathematics from the University of Lagos, class of 2017. I started my career as the General Manager at Evergreen Estates, a family-owned real estate firm, in 2018.
 
-In 2019, I co-founded JTMForum, an online platform where subscribers earned by sharing content. As the lead developer and community manager, I helped JTMForum reach over 1,000 subscribers and 100,000 daily page views. Despite its eventual closure due to financial challenges, it was a valuable learning experience.
+In 2019, I co-founded JTMForum, an online platform where subscribers earned by sharing content. As the lead developer and community manager, I helped JTMForum reach over 1,000 subscribers and 100,000 daily page views. Despite its eventual closure due to financial challenges, it was a valuable learning experience for me.
 
 In 2021, I co-founded Kamio Homes, where I have been the CEO for the past four years. Recently, I resigned from Evergreen Estates and plan to step down as CEO of Kamio Homes by the end of the year to fully transition into a new career.
 
-My passion for technology has grown into a strong interest in data science and machine learning. I've completed several courses and projects in this field, and I am now focused on becoming a Machine Learning Engineer. I look forward to applying my skills and experience to make a meaningful impact in the tech industry.
+My passion for technology has grown into a keen interest in data science and machine learning. I've completed several courses and projects in this field. Coupled with my web development skills, I am now focused on becoming an AI/Machine Learning Engineer. I look forward to applying my skills and experience to make a meaningful impact in a forward thinking organisation.
 
 ## Completed Courses
-* [Introduction to Machine Learning - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/intro-to-machine-learning)
+* [Introduction to Machine Learning (1)](https://drive.google.com/file/d/1mmU3nTjaUeYOo2odR4GfeB1OGh8EPhbe/view?usp=drive_link)
 
-* [Introduction to Machine Learning - AWS](https://drive.google.com/file/d/1mmU3nTjaUeYOo2odR4GfeB1OGh8EPhbe/view?usp=drive_link)
+* [Introduction to Machine Learning (2)](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/intro-to-machine-learning)
 
-* [Data Cleaning - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/data-cleaning)
+* [Data Cleaning](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/data-cleaning)
 
-* [Data Visualization - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/data-visualization)
+* [Data Visualization](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/data-visualization)
 
-* [Feature Engineering - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/feature-engineering)
+* [Feature Engineering](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/feature-engineering)
 
-* [Artificial Intelligence and Machine Learning Fundamentals - Udemy](https://www.udemy.com/certificate/UC-41d45651-33b3-4569-8cc3-c38b0f5bfc89/)
+* [Artificial Intelligence and Machine Learning Fundamentals](https://www.udemy.com/certificate/UC-41d45651-33b3-4569-8cc3-c38b0f5bfc89/)
 
-* [Introduction to Deep Learning - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/intro-to-deep-learning)
+* [Introduction to Deep Learning](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/intro-to-deep-learning)
 
-* [Neural Networks and Deep Learning - DeepLearning.AI](https://www.coursera.org/account/accomplishments/records/CWXK45GT9C9J)
+* [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/records/CWXK45GT9C9J)
 
-* [Computer Vision - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/computer-vision)
+* [Computer Vision](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/computer-vision)
 
-* [Foundations of Prompt Engineering - AWS](https://drive.google.com/file/d/1tbD056rcv_A87qx6-QxAnX9-WBicZSCZ/view?usp=drive_link)
+* [Foundations of Prompt Engineering](https://drive.google.com/file/d/1tbD056rcv_A87qx6-QxAnX9-WBicZSCZ/view?usp=drive_link)
 
 * [AWS Amazon Bedrock](https://drive.google.com/file/d/10etOp-Gkg061r1fIH-zFp2yKw5mQ7wXY/view?usp=drive_link)
 
@@ -45,19 +45,19 @@ My passion for technology has grown into a strong interest in data science and m
 
 * [Building Language Models on AWS](https://drive.google.com/file/d/18AvJ4IsSW0viSZPOksXZYoDK7JPQTjXA/view?usp=drive_link)
 
-* [Time Series - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/time-series)
+* [Time Series](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/time-series)
 
-* [Introduction to Game AI and Reinforcement Learning - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/intro-to-game-ai-and-reinforcement-learning)
+* [Introduction to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/intro-to-game-ai-and-reinforcement-learning)
 
-* [Geospatial Analysis - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/geospatial-analysis)
+* [Geospatial Analysis](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/geospatial-analysis)
 
-* [Advanced SQL - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/advanced-sql)
+* [Advanced SQL](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/advanced-sql)
 
-* [Introduction to AI Ethics - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/intro-to-ai-ethics)
+* [Introduction to AI Ethics](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/intro-to-ai-ethics)
 
-* [Machine Learning Explainability - Kaggle](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/machine-learning-explainability)
+* [Machine Learning Explainability](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/machine-learning-explainability)
 
-* [Nature of intelligence - Udemy](https://www.udemy.com/certificate/UC-1f5b8821-780d-4a5e-9d20-501c66538af3/)
+* [Nature of intelligence](https://www.udemy.com/certificate/UC-1f5b8821-780d-4a5e-9d20-501c66538af3/)
 
 
 
@@ -95,21 +95,13 @@ My passion for technology has grown into a strong interest in data science and m
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg' height='32' alt='pandas'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg' height='32' alt='spacy'>
-&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://cdn-lfs.huggingface.co/repos/96/a2/96a2c8468c1546e660ac2609e49404b8588fcf5a748761fa72c154b2836b4c83/42378b786aa85e6103abbd2ee24e56672467d562ecf884eb51cefe3a68971087?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo-with-title.png%3B+filename%3D%22hf-logo-with-title.png%22%3B&response-content-type=image%2Fpng&Expires=1721499626&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMTQ5OTYyNn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9yZXBvcy85Ni9hMi85NmEyYzg0NjhjMTU0NmU2NjBhYzI2MDllNDk0MDRiODU4OGZjZjVhNzQ4NzYxZmE3MmMxNTRiMjgzNmI0YzgzLzQyMzc4Yjc4NmFhODVlNjEwM2FiYmQyZWUyNGU1NjY3MjQ2N2Q1NjJlY2Y4ODRlYjUxY2VmZTNhNjg5NzEwODc%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=QN9sBR6xgLsVqxSkzxpREbJLXZoBa-RXOL1AFpukS7l5YmjfiJuIb8O7cw7A1Ih7Fb61yv%7EyPaHxE%7EB8s54e82zKSXW32Kl2BzvrSxawqlzlGIpUTHJlAeKBllCBpAFulr5le4tRGxoxWu2Gf55QLUflI%7E1CXNKCeqKa6I2MMqM0UqnmEQc2tMiXGMNSdQfKsKbDG1sdcqQP2-oLjBuj2vzLD97jrOEytb8ZvS3P-jNkD1fcRCCS-iBhFIMZW65yH9Q6qYlvPLtNeiv1zsH%7EfkTLM%7EfVIy13B%7EEfek-6aMf1hUy0KVzBcwxhmRq0eM8DEN4wSH4GW2lxc4DcoeVv9w__&Key-Pair-Id=K3ESJI6DHPFC7' height='32' alt='huggingface'>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg' height='32' alt='openCV'>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://cloud.githubusercontent.com/assets/72164/2638484/3f743636-beaf-11e3-8f26-0d3b41f12edf.png' height='32' alt='PIL'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg' height='32' alt='hadoop'>
-&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://thedatascientist.com/wp-content/uploads/2023/08/nltk.png' height='32' alt='NLTK'>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='icons/Apache MXNet on AWS.png' height='32'>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/en/b/b9/Microsoft-CogTK.png' height='32' alt='COGTK'>
 <br>
 
 ## Database Engines:
@@ -149,27 +141,15 @@ My passion for technology has grown into a strong interest in data science and m
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://site.wandb.ai/nitropack_static/pfApWRihljemXzAqfjcIBKUphCWQwXRI/assets/images/optimized/rev-3bb3226/site.wandb.ai/wp-content/uploads/2024/05/Horizontal-WB-logo.svg' height='32' alt='weight&biases'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://neptune.ai/wp-content/themes/neptune/img/logo-neptune.svg' height='32' alt='neptune.ai'>
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Other ML Tools
 <img src='https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg' height='32' alt='git'></img>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg' height='32' alt='google colab'>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src='icons/SageMaker.png' height='32' alt='amazon sagemaker'>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg' height='32' alt='gitlab'>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/5/53/Apache_kafka_wordtype.svg' height='32' alt='apache kafka'>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg' height='32' alt='apache spark'>
-&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://upload.wikimedia.org/wikipedia/commons/archive/3/38/20190118024745%21Jupyter_logo.svg' height='32' alt='juoyter'>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='icons/label_studio.svg' height='32' alt='label studio'>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='icons/datarobot.svg' height='32' alt='data robot'></img>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <!--
