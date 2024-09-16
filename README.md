@@ -9,7 +9,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg' alt='StackOverflow' height='24'>](https://stackoverflow.com/users/10446949/adetoye?tab=profile)
 
-<br>
 ***Founder at Motherland AI***
 
 Driving AI innovation in Africa through cutting-edge language processing models. I am focused on developing crucial African Language Processing Models to accelerate AI adoption across the continent. my mission is: to bridge the technological gap and empower African businesses and communities with tailored AI solutions.
