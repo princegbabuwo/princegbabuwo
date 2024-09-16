@@ -10,15 +10,9 @@
 
 <br>
 
-I'm Adetoye, an AI and Machine Learning enthusiast with a solid foundation in Applied and Computational Mathematics from the University of Lagos, class of 2017. I started my career as the General Manager at Evergreen Estates, a family-owned real estate firm, in 2018.
+Tech Polymath 🧠🔬, Software & Machine Learning Engineer 👨‍💻🤖. Looking for exciting and challenging projects to contribute to! 🚀💡
 
-In 2019, I co-founded JTMForum, an online platform where subscribers earned by sharing content. As the lead developer and community manager, I helped JTMForum reach over 1,000 subscribers and 100,000 daily page views. Despite its eventual closure due to financial challenges, it was a valuable learning experience for me.
-
-In 2021, I co-founded Kamio Homes, where I have been the CEO for the past four years. Recently, I resigned from Evergreen Estates and plan to step down as CEO of Kamio Homes by the end of the year to fully transition into a new career.
-
-My passion for technology has grown into a keen interest in data science and machine learning. I've completed several courses and projects in this field. Coupled with my web development skills, I am now focused on becoming an AI/Machine Learning Engineer. I look forward to applying my skills and experience to make a meaningful impact in a forward thinking organisation.
-
-## Completed Courses
+## Courses Certifications
 * [Introduction to Machine Learning (1)](https://drive.google.com/file/d/1mmU3nTjaUeYOo2odR4GfeB1OGh8EPhbe/view?usp=drive_link)
 
 * [Introduction to Machine Learning (2)](https://www.kaggle.com/learn/certification/adetoyeshearigbabuwo/intro-to-machine-learning)
