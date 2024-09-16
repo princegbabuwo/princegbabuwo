@@ -1,6 +1,5 @@
 # Adetoyeshe Arigbabuwo
 ### *Software & Machine Learning Engineer*
-*Founder at Motherland AI* 
 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg' alt='Github' height='24'></img>](https://github.com/princegbabuwo)
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -10,9 +9,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg' alt='StackOverflow' height='24'>](https://stackoverflow.com/users/10446949/adetoye?tab=profile)
 
+***Founder at Motherland AI***
+
 <br>
 
-*Founder at Motherland AI* . Driving AI innovation in Africa through cutting-edge language processing models. I am focused on developing crucial African Language Processing Models to accelerate AI adoption across the continent. my mission is: to bridge the technological gap and empower African businesses and communities with tailored AI solutions.
+Driving AI innovation in Africa through cutting-edge language processing models. I am focused on developing crucial African Language Processing Models to accelerate AI adoption across the continent. my mission is: to bridge the technological gap and empower African businesses and communities with tailored AI solutions.
 
 ## Courses Certifications
 * [Introduction to Machine Learning (1)](https://drive.google.com/file/d/1mmU3nTjaUeYOo2odR4GfeB1OGh8EPhbe/view?usp=drive_link)
